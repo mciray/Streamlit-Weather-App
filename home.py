@@ -4,8 +4,7 @@ from PIL import Image
 from io import BytesIO
 
 ## http://api.weatherstack.com/ sitesine gidip (ücretsiz) api key alın ve yerleştirin.
-
-api_key = "##"  # API key'i buraya ekleyin
+api_key = "21c11ff490042acf09c81e84769cfc1b"  # API key'i buraya ekleyin
 
 
 def get_weather(city):
